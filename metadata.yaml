@@ -1,0 +1,27 @@
+_repo: The-Hilltop-Boys-on-the-River_12943
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burleigh, Cyril
+    gutenberg_agent_id: '4732'
+    url: http://www.gutenberg.org/2009/agents/4732
+description: '"If you are going with the boys on the river, Jack, you will have to
+  get a motor-boat. Won''t you let me buy you one?" "No, not a bit of it, Dick." "But
+  you want one?" Certainly, and I am going to have one." "But motor-boats cost money,
+  Jack. Why, mine cost me -"'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcsh 'Preparatory school students -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Hilltop Boys on the River
+url: http://www.gutenberg.org/ebooks/12943
